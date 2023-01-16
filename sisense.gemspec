@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Sisense Ruby API Client"
   spec.description = "Light API client to communicate with Sisense API"
+  spec.homepage = 'https://github.com/chronogolf/sisense'
   spec.license = "MIT"
 
   spec.files = `git ls-files -z`.split("\x0").reject do |f|
